@@ -52,7 +52,7 @@
 
 如需大规模数据获取或定制化采集方案，请随时联系：
 * **官方网站:** [https://bodapi.com](https://bodapi.com)
-* **Telegram:** [@bodapi_dan]
+* **Telegram:** @bodapi_dan
 * **WeChat (微信):** daniellehallasgo
 * **Email:** support@bodapi.com
 
